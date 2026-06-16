@@ -1,0 +1,6 @@
+{
+  "name": "informe-gas-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Endpoint de validacion de licencia para la app Informe Tecnico de Gas"
+}
